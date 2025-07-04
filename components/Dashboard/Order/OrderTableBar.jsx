@@ -139,14 +139,7 @@ const OrderTableBar = () => {
               },
             }}
             displayEmpty={"Order Status"}
-
-            // IconComponent={(props) =>
-            //   props.className.includes("MuiSelect-iconOpen") ? (
-            //     <FaAngleUp />
-            //   ) : (
-            //     <FaAngleDown />
-            //   )
-            // }
+          
           >
             <MenuItem value="" disabled>
               {" "}
